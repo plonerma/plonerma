@@ -5,5 +5,6 @@ I'm interested in continual & transfer learning, knowledge probing, and growing 
 ---
 <div align="center">
 <a rel="author" href="https://maxploner.de">Personal Website</a> | 
+<a rel="author" href="https://www.linkedin.com/in/plonerma/">LinkedIn</a> | 
 <a rel="me" href="https://sigmoid.social/@plonerma">Mastodon</a>
 </div>
